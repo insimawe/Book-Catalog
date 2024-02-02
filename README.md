@@ -1,2 +1,2 @@
 # Book-Catalog
-ASP.NET Core Web API and Entity Framework Core 
+ASP.NET Core Web API and Entity Framework Core (with Swagger)
